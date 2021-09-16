@@ -23,7 +23,7 @@
 #define NAME        "ytestconfig"
 #define DOC         "Test a json configuration file"
 
-#define APP_VERSION     "4.18.0"
+#define APP_VERSION     "4.18.1"
 #define APP_DATETIME    __DATE__ " " __TIME__
 #define APP_SUPPORT     "<niyamaka at yuneta.io>"
 
